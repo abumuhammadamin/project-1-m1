@@ -543,7 +543,7 @@ margin-bottom: 2px;
 
 
 
-
+/*laptop version*/
 @media screen and (min-width: 601px) and (max-width: 1199px) {
  .wrapper {
    height: 100%;
